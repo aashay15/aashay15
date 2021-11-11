@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Aashay Sharma
 - 👀 I’m interested in Data Science | Artificial Intelligence 
 - 🌱 I’m currently learning Advanced Machine Learning Practices (Text/Image data)
 - 📫 [My RPubs profile](https://rpubs.com/aashay15)
